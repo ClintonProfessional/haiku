@@ -42,7 +42,8 @@ Write your own Haiku here:
 
 1. Looking out my window,
 2. Thinking about Python.
-3.
+3. I saw an actual python in the garden
+
 
 
 
