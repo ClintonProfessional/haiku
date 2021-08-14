@@ -41,7 +41,7 @@ Write your own Haiku here:
 
 
 1. Looking out my window,
-2.
+2. Thinking about Python.
 3.
 
 
