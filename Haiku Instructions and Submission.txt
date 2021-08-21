@@ -35,9 +35,9 @@ I long for Kyoto.
 Write your own Haiku here:
 
 
-1.
-2.
-3.
+1. It's a nice weather day
+2. There's music playing
+3. 
 
 
 
